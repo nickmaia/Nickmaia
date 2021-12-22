@@ -22,7 +22,8 @@
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="icon-nodejs">
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html5"/>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon-css3"/>
-<img align= "right"  src="https://www.facebook.com/100056596603374/videos/456510502509886/" alt="imagem-gif" />
+<img align= "right" height="150" width="150"  src="https://user-images.githubusercontent.com/88941862/147116165-0a437815-34e3-4f26-8801-ebbc037bb66f.gif" alt="imagem-gif" />
+ 
 </div>
 
 ##
