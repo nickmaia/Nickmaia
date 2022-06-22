@@ -21,7 +21,7 @@
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon-react"/>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html5"/>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon-css3"/>
-<img align= "right" height="150" width="150"  src="https://user-images.githubusercontent.com/88941862/175110153-3ff04adc-656e-4ee7-9da1-472a56f5a7ca.gif" alt="imagem-gif" />
+<img align= "right" height="200" width="200"  src="https://user-images.githubusercontent.com/88941862/175110153-3ff04adc-656e-4ee7-9da1-472a56f5a7ca.gif" alt="imagem-gif" />
  
 </div>
 
