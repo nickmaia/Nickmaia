@@ -16,8 +16,7 @@
 <div>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt= "icon-c"/>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt= "icon-python"/>
-<img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt= "icon-django"/>
-<img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="icon-visualstudiocode" />
+<img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt= "icon-django"/>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="icon-yarn" />
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon-react"/>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html5"/>
