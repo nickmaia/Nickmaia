@@ -22,7 +22,8 @@
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon-react"/>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html5"/>
 <img align= "center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon-css3"/>
-<img align= "right" height="150" width="150"  src="[URL=https://picasion.com/][IMG]https://i.picasion.com/pic92/5f8ec248818fd6f497d8b974cee26f17.gif[/IMG][/URL][URL=https://picasion.com/]https://picasion.com/[/URL]" alt="imagem-gif" />
+<img align= "right" height="150" width="150"  src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/88941862/175110153-3ff04adc-656e-4ee7-9da1-472a56f5a7ca.gif)
+" alt="imagem-gif" />
  
 </div>
 
