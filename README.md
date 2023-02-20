@@ -1,9 +1,13 @@
 ### Olá, Bem vindo ao meu perfil !!! 😄
 
-- 🔭 Atualmente estou trabalhando em uma iniciação cientifica sobre um webapp gerador de funções apartir de dados reais 
+- 🔭 Atualmente estou trabalhando no desenvolvimento django.
 - 🌱 Estou estudando sobre react, frontend e backend
-- Projeto principal: https://modelitx.vercel.app
-
+- Projeto iniciação científica: https://modelitx.vercel.app
+- Projetos:
+- Empreza júnior Zebu Baja: https://zebu-baja.vercel.app/index.html
+- Curso utilizando backend e frotend baseado em um site de adoção de pets: https://apadrinhe-um-pet.vercel.app
+- Primeiro Projeto: https://nickmaia.github.io/Samurai_Lanches_Web_Site/
+- 
 ##
 
 <div>
