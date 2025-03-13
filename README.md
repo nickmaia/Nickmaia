@@ -29,9 +29,7 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickmaia&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/nickmaia/nickmaia/blob/output/github-contribution-grid-snake.svg" alt="Animação Snake"/>
-</p>
+
 
 ## 🌐 Links Sociais
 
