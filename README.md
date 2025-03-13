@@ -26,7 +26,7 @@
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nickmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickmaia&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
