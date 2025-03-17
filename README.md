@@ -8,6 +8,7 @@
 - 🌱 **Aprendizado:** Estou sempre aprendendo novas tecnologias; no momento, aprofundando meus conhecimentos em banco de dados.  
 - 💬 **Interesses:** Gosto de colaborar em projetos de código aberto e explorar boas práticas de desenvolvimento.  
 - ⚡ **Curiosidade:** Apaixonado por café e por resolver desafios de programação!
+- https://sitesnicky.vercel.app
 
 ## 🛠 Tecnologias
 
