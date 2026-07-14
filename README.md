@@ -1,56 +1,86 @@
-<h1 align="center">Olá, seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">Me chamo <strong>Nicole Maia</strong>, Cientista de Dados e Engenheira Química.</h3>
+<div align="center">
 
-## ℹ️ Sobre
-- 🎓 **Atualmente:** Mestranda em Ciência da Computação (linha Ciência de Dados) na **UFU**, bolsista CAPES.
-- 🔬 **Pesquisa:** Interesses em **LLMs, Transformers, RAG** e mecanismos de atenção aplicados a dados científicos.
-- 🧪 **Background:** Engenheira Química (UFTM), com projetos que unem automação, modelagem molecular e desenvolvimento web.
-- 🌱 **Aprendizado:** Aprofundando arquiteturas de atenção e aplicações de IA generativa em pesquisa.
-- 💬 **Interesses:** Código aberto, boas práticas de desenvolvimento e o cruzamento entre engenharia e ciência de dados.
+```
+┌─[nicole@ufu]─[~/pesquisa]
+└──╼ whoami
+```
 
-## 🚀 Projetos em destaque
-- **[MACES](https://github.com/nickmaia/MACES)** — Análise estrutural de moléculas via espectrometria de massas (MLP + algoritmo genético), TCC de Engenharia Química
-- **[Modelitx](https://github.com/nickmaia/Modelitx)** — Gerador de funções a partir de dados reais para ensino de Cálculo (bolsa FAPEMIG) · [demo](https://modelitx.vercel.app/)
-- **[conditional-molecular-design-ssvae](https://github.com/nickmaia/conditional-molecular-design-ssvae)** — Semi-Supervised VAE para predição de propriedades e geração de moléculas
-- **[raven](https://github.com/nickmaia/raven)** — Reprodução em escala reduzida de experimentos de pesquisa
+# `Nicole Maia`
+### `Cientista de Dados` × `Engenheira Química`
 
-## 🛠 Tecnologias
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Mestranda+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFU;LLMs+%C2%B7+Transformers+%C2%B7+RAG+%C2%B7+Attention;Ex-Engenheira+Qu%C3%ADmica+%40+UFTM;Bolsista+CAPES" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
-</p>
+</div>
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nickmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickmaia&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas"/>
-</p>
+---
 
-## 🌐 Links
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicole-maia-argondizzi/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="http://lattes.cnpq.br/1135239230343713" target="_blank">
-    <img src="https://img.shields.io/badge/-Lattes-1E6B52?style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="Lattes"/>
-  </a>
-  <a href="https://sitesnicky.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-181717?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"/>
-  </a>
-  <a href="mailto:nicolemaiaargondizzi02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+```bash
+$ cat sobre.txt
+```
+
+```
+> Mestranda em Ciência da Computação (linha Ciência de Dados) na UFU, bolsista CAPES
+> Pesquisa em LLMs, Transformers, RAG e mecanismos de atenção aplicados a dados científicos
+> Formada em Engenharia Química (UFTM) — automação, modelagem molecular, dev web
+> Estudando arquiteturas de atenção e IA generativa aplicada à ciência
+> Interesses: open source, boas práticas de dev, a fronteira entre engenharia e dados
+```
+
+```bash
+$ ls projetos/
+```
+
+| processo | descrição |
+|---|---|
+| **[MACES](https://github.com/nickmaia/MACES)** | Análise estrutural de moléculas via espectrometria de massas (MLP + algoritmo genético) — TCC Eng. Química |
+| **[Modelitx](https://github.com/nickmaia/Modelitx)** | Gerador de funções a partir de dados reais p/ ensino de Cálculo (bolsa FAPEMIG) — [`./demo`](https://modelitx.vercel.app/) |
+| **[conditional-molecular-design-ssvae](https://github.com/nickmaia/conditional-molecular-design-ssvae)** | Semi-Supervised VAE p/ predição de propriedades e geração de moléculas |
+| **[raven](https://github.com/nickmaia/raven)** | Reprodução em escala reduzida de experimentos de pesquisa |
+
+```bash
+$ cat stack.json
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF9C)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00FF9C)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00FF9C)
+![HuggingFace](https://img.shields.io/badge/-Transformers-000000?style=flat-square&logo=huggingface&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF9C)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF9C)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF9C)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=00FF9C)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FF9C)
+
+</div>
+
+```bash
+$ ping github-stats --stats
+```
+
+<div align="center">
+
+<!-- Substitua SEU-DEPLOY pela sua URL do Vercel após o self-host (veja instruções anteriores) -->
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=nickmaia&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="stats"/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickmaia&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=7" alt="langs"/>
+
+</div>
+
+```bash
+$ cat contatos.log
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/nicole-maia-argondizzi/)
+[![Lattes](https://img.shields.io/badge/-Lattes-000000?style=flat-square&logo=googlescholar&logoColor=00FF9C)](http://lattes.cnpq.br/1135239230343713)
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=flat-square&logo=vercel&logoColor=00FF9C)](https://sitesnicky.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF9C)](mailto:nicolemaiaargondizzi02@gmail.com)
+
+```
+$ process exited (0)
+```
+
+</div>
