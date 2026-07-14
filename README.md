@@ -1,86 +1,92 @@
 <div align="center">
 
-```
-┌─[nicole@ufu]─[~/pesquisa]
-└──╼ whoami
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Nicole%20Maia&fontSize=42&fontColor=E8C468&fontAlignY=40&desc=Data%20Science%20%C3%97%20Chemical%20Engineering&descAlignY=58&descSize=16&descColor=E8C468&animation=fadeIn" width="100%"/>
 
-# `Nicole Maia`
-### `Cientista de Dados` × `Engenheira Química`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Mestranda+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFU;LLMs+%C2%B7+Transformers+%C2%B7+RAG+%C2%B7+Attention;Ex-Engenheira+Qu%C3%ADmica+%40+UFTM;Bolsista+CAPES" alt="Typing SVG" />
+<i>"Na fronteira entre moléculas e modelos de linguagem"</i>
 
 </div>
 
----
+<br>
 
-```bash
-$ cat sobre.txt
-```
+## Formação & Pesquisa
 
-```
-> Mestranda em Ciência da Computação (linha Ciência de Dados) na UFU, bolsista CAPES
-> Pesquisa em LLMs, Transformers, RAG e mecanismos de atenção aplicados a dados científicos
-> Formada em Engenharia Química (UFTM) — automação, modelagem molecular, dev web
-> Estudando arquiteturas de atenção e IA generativa aplicada à ciência
-> Interesses: open source, boas práticas de dev, a fronteira entre engenharia e dados
-```
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```bash
-$ ls projetos/
-```
+**Mestranda em Ciência da Computação** · linha Ciência de Dados
+Universidade Federal de Uberlândia (UFU) — bolsista CAPES
 
-| processo | descrição |
-|---|---|
-| **[MACES](https://github.com/nickmaia/MACES)** | Análise estrutural de moléculas via espectrometria de massas (MLP + algoritmo genético) — TCC Eng. Química |
-| **[Modelitx](https://github.com/nickmaia/Modelitx)** | Gerador de funções a partir de dados reais p/ ensino de Cálculo (bolsa FAPEMIG) — [`./demo`](https://modelitx.vercel.app/) |
-| **[conditional-molecular-design-ssvae](https://github.com/nickmaia/conditional-molecular-design-ssvae)** | Semi-Supervised VAE p/ predição de propriedades e geração de moléculas |
-| **[raven](https://github.com/nickmaia/raven)** | Reprodução em escala reduzida de experimentos de pesquisa |
+**Bacharel em Engenharia Química**
+Universidade Federal do Triângulo Mineiro (UFTM)
 
-```bash
-$ cat stack.json
-```
+**Linha de pesquisa**
+Modelos de linguagem de larga escala (LLMs), arquiteturas Transformer, Retrieval-Augmented Generation (RAG) e mecanismos de atenção aplicados a dados científicos.
+
+</td>
+<td width="40%" valign="top">
+
+> Interesses correntes
+> — IA generativa aplicada à ciência
+> — Arquiteturas de atenção
+> — Código aberto
+> — Boas práticas de engenharia de software
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Publicações & Projetos Selecionados
+
+<table>
+<tr><td width="4"><b>01</b></td><td><b><a href="https://github.com/nickmaia/MACES">MACES</a></b><br><sub>Análise estrutural de moléculas via espectrometria de massas, utilizando MLP e algoritmo genético · Trabalho de Conclusão de Curso, Engenharia Química</sub></td></tr>
+<tr><td><b>02</b></td><td><b><a href="https://github.com/nickmaia/Modelitx">Modelitx</a></b><br><sub>Geração de funções a partir de dados reais para o ensino de Cálculo · Bolsa FAPEMIG · <a href="https://modelitx.vercel.app/">demonstração</a></sub></td></tr>
+<tr><td><b>03</b></td><td><b><a href="https://github.com/nickmaia/conditional-molecular-design-ssvae">conditional-molecular-design-ssvae</a></b><br><sub>Variational Autoencoder semi-supervisionado para predição de propriedades e geração de moléculas</sub></td></tr>
+<tr><td><b>04</b></td><td><b><a href="https://github.com/nickmaia/raven">raven</a></b><br><sub>Reprodução em escala reduzida de experimentos de pesquisa</sub></td></tr>
+</table>
+
+<br>
+
+## Ferramental
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF9C)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00FF9C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00FF9C)
-![HuggingFace](https://img.shields.io/badge/-Transformers-000000?style=flat-square&logo=huggingface&logoColor=00FF9C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF9C)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF9C)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF9C)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=00FF9C)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=00FF9C)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FF9C)
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Transformers-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=E8C468"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=E8C468"/>
 
 </div>
 
-```bash
-$ ping github-stats --stats
-```
+<br>
+
+## Indicadores
 
 <div align="center">
 
-<!-- Substitua SEU-DEPLOY pela sua URL do Vercel após o self-host (veja instruções anteriores) -->
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=nickmaia&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="stats"/>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickmaia&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=7" alt="langs"/>
+<!-- Substitua nickmaia pela sua URL própria do Vercel após o self-host -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nickmaia&show_icons=true&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=E8C468&icon_color=E8C468&text_color=ffffff&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickmaia&layout=compact&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=E8C468&text_color=ffffff&langs_count=7"/>
 
 </div>
 
-```bash
-$ cat contatos.log
-```
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/nicole-maia-argondizzi/)
-[![Lattes](https://img.shields.io/badge/-Lattes-000000?style=flat-square&logo=googlescholar&logoColor=00FF9C)](http://lattes.cnpq.br/1135239230343713)
-[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=flat-square&logo=vercel&logoColor=00FF9C)](https://sitesnicky.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF9C)](mailto:nicolemaiaargondizzi02@gmail.com)
-
-```
-$ process exited (0)
-```
+<a href="https://www.linkedin.com/in/nicole-maia-argondizzi/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=E8C468"/></a>
+<a href="http://lattes.cnpq.br/1135239230343713"><img src="https://img.shields.io/badge/Lattes-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=E8C468"/></a>
+<a href="https://sitesnicky.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=E8C468"/></a>
+<a href="mailto:nicolemaiaargondizzi02@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E8C468"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
