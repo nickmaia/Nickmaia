@@ -1,0 +1,20 @@
+<svg viewBox="0 0 700 242" xmlns="http://www.w3.org/2000/svg">
+<text x="20" y="28" fill="#B983FF" font-family='Courier New, monospace' font-size='14' font-weight="bold">Initializing Research Environment...</text>
+<text x="20" y="71" fill="#D9C6FF" font-family='Courier New, monospace' font-size='14'>Loading Transformers</text>
+<rect x="330" y="60" width="280" height="12" rx="3" fill="#4c3575" opacity="0.35"/>
+<rect x="330" y="60" width="0" height="12" rx="3" fill="#B983FF"><animate attributeName="width" values="0;0;280;280;0" keyTimes="0;0.050;0.150;0.95;1" dur="10s" repeatCount="indefinite"/></rect>
+<text x="622" y="71" fill="#B983FF" font-family='Courier New, monospace' font-size='14' opacity="0">100%<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.150;0.170;0.95;1" dur="10s" repeatCount="indefinite"/></text>
+<text x="20" y="109" fill="#D9C6FF" font-family='Courier New, monospace' font-size='14'>Loading Attention Mechanisms</text>
+<rect x="330" y="98" width="280" height="12" rx="3" fill="#4c3575" opacity="0.35"/>
+<rect x="330" y="98" width="0" height="12" rx="3" fill="#B983FF"><animate attributeName="width" values="0;0;280;280;0" keyTimes="0;0.140;0.240;0.95;1" dur="10s" repeatCount="indefinite"/></rect>
+<text x="622" y="109" fill="#B983FF" font-family='Courier New, monospace' font-size='14' opacity="0">100%<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.240;0.260;0.95;1" dur="10s" repeatCount="indefinite"/></text>
+<text x="20" y="147" fill="#D9C6FF" font-family='Courier New, monospace' font-size='14'>Loading RAG Pipeline</text>
+<rect x="330" y="136" width="280" height="12" rx="3" fill="#4c3575" opacity="0.35"/>
+<rect x="330" y="136" width="0" height="12" rx="3" fill="#B983FF"><animate attributeName="width" values="0;0;280;280;0" keyTimes="0;0.230;0.330;0.95;1" dur="10s" repeatCount="indefinite"/></rect>
+<text x="622" y="147" fill="#B983FF" font-family='Courier New, monospace' font-size='14' opacity="0">100%<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.330;0.350;0.95;1" dur="10s" repeatCount="indefinite"/></text>
+<text x="20" y="185" fill="#D9C6FF" font-family='Courier New, monospace' font-size='14'>Loading Generative AI</text>
+<rect x="330" y="174" width="280" height="12" rx="3" fill="#4c3575" opacity="0.35"/>
+<rect x="330" y="174" width="0" height="12" rx="3" fill="#B983FF"><animate attributeName="width" values="0;0;280;280;0" keyTimes="0;0.320;0.420;0.95;1" dur="10s" repeatCount="indefinite"/></rect>
+<text x="622" y="185" fill="#B983FF" font-family='Courier New, monospace' font-size='14' opacity="0">100%<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.420;0.440;0.95;1" dur="10s" repeatCount="indefinite"/></text>
+<text x="20" y="226" fill="#B983FF" font-family='Courier New, monospace' font-size='14' font-weight="bold" opacity="0">STATUS: ONLINE<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.5;0.95;1" dur="10s" repeatCount="indefinite"/></text>
+</svg>
