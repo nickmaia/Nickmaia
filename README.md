@@ -11,7 +11,7 @@
 ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://raw.githubusercontent.com/nickmaia/nickmaia/main/loading.svg" width="100%" alt="Initializing Research Environment"/>
+<img src="https://raw.githubusercontent.com/nickmaia/Nickmaia/main/loading.svg" width="100%" alt="Initializing Research Environment"/>
 
 </div>
 
