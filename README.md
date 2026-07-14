@@ -20,7 +20,9 @@
 <div align="center">
 
 Mestranda em **Ciência da Computação** · linha Ciência de Dados · **UFU** · bolsista **CAPES**
+
 Pesquiso **LLMs**, **Transformers**, **RAG** e **mecanismos de atenção** aplicados a dados científicos
+
 Engenheira Química pela **UFTM** — automação · modelagem molecular · desenvolvimento web
 
 </div>
@@ -88,16 +90,6 @@ Experimentos de pesquisa reproduzidos em **escala reduzida** — entender por de
 <img src="https://img.shields.io/badge/Django-2e1065?style=for-the-badge&logo=django&logoColor=B983FF"/>
 <img src="https://img.shields.io/badge/JavaScript-2e1065?style=for-the-badge&logo=javascript&logoColor=B983FF"/>
 <img src="https://img.shields.io/badge/React-2e1065?style=for-the-badge&logo=react&logoColor=B983FF"/>
-
-</div>
-
-<br>
-
-## 💜 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nickmaia/nickmaia/main/neural_network.svg" width="100%" alt="rede neural animada"/>
 
 </div>
 
