@@ -1,145 +1,351 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:134e4a,100:0d0d0d&height=190&section=header&text=Nicole%20Maia&fontSize=44&fontColor=00FF9C&fontAlignY=38&desc=onde%20mol%C3%A9culas%20encontram%20mecanismos%20de%20aten%C3%A7%C3%A3o&descAlignY=58&descSize=15&descColor=7CF9CF&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:001F1D,70:00B894,100:000000&text=NeuralOS&fontColor=00FFD0&fontSize=56&fontAlignY=38&desc=Nicole%20Maia%20Argondizzi%20%7C%20Representation%20Learning%20Laboratory&descAlignY=60"/>
+
+```
+██████╗  ███████╗██╗   ██╗██████╗  █████╗ ██╗         ██████╗ ███████╗
+██╔══██╗ ██╔════╝██║   ██║██╔══██╗██╔══██╗██║        ██╔═══██╗██╔════╝
+██████╔╝ █████╗  ██║   ██║██████╔╝███████║██║        ██║   ██║███████╗
+██╔══██╗ ██╔══╝  ██║   ██║██╔══██╗██╔══██║██║        ██║   ██║╚════██║
+██║  ██║ ███████╗╚██████╔╝██║  ██║██║  ██║███████╗   ╚██████╔╝███████║
+╚═╝  ╚═╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝
+```
+
+### Initializing Research Environment...
+
+```
+Loading Chemistry...................... ████████████████ 100%
+
+Loading Mathematics.................... ████████████████ 100%
+
+Loading Machine Learning............... ████████████████ 100%
+
+Loading Transformers................... ████████████████ 100%
+
+Loading Large Language Models.......... ████████████████ 100%
+
+STATUS: ONLINE
+```
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="100%">
+# > whoami
 
-Comecei desmontando moléculas em espectros de massa. Hoje desmonto texto em vetores de atenção. No meio do caminho, percebi que as duas coisas são a mesma pergunta feita duas vezes: *como um sistema aprende a reconhecer padrão em meio ao ruído?*
+```python
+class NicoleMaia:
 
-</td>
-</tr>
-</table>
+    origin = [
+        "Chemical Engineering",
+        "Mass Spectrometry",
+        "Mathematical Modeling"
+    ]
 
-<br>
+    current = [
+        "M.Sc. Computer Science",
+        "Data Science",
+        "CAPES Researcher"
+    ]
 
-## ⇁ Trajetória
+    interests = [
+        "Transformers",
+        "Attention",
+        "LLMs",
+        "Representation Learning",
+        "RAG",
+        "Generative AI"
+    ]
 
-<table>
-<tr>
-<td align="center" width="33%">
+    mission = """
+    Understand how intelligent systems discover
+    structure hidden inside noisy information.
+    """
 
-**Engenharia Química**
-`UFTM`
-<sub>modelagem molecular · automação</sub>
+    motto = "Different domains. Same learning problem."
+```
 
-</td>
-<td align="center" width="1%">→</td>
-<td align="center" width="33%">
+---
 
-**Ciência de Dados**
-`UFU · CAPES`
-<sub>mestrado em andamento</sub>
+# Research Pipeline
 
-</td>
-<td align="center" width="1%">→</td>
-<td align="center" width="33%">
+```
+                REAL WORLD
 
-**LLMs & Atenção**
-`pesquisa atual`
-<sub>Transformers · RAG</sub>
+                    │
 
-</td>
-</tr>
-</table>
+                    ▼
 
-<br>
+      ┌─────────────────────────┐
+      │     Raw Information     │
+      └─────────────────────────┘
+                    │
+      ┌─────────────┴─────────────┐
+      │                           │
+      ▼                           ▼
 
-## ⇁ Projetos
+ Mass Spectrometry             Language
 
-<table>
-<tr>
-<td width="8%" align="center">🧬</td>
-<td>
+      │                           │
 
-**[MACES](https://github.com/nickmaia/MACES)** — rede neural (MLP) + algoritmo genético lendo a estrutura de uma molécula a partir do seu espectro de massas. TCC de Engenharia Química.
+      ▼                           ▼
 
-</td>
-</tr>
-<tr>
-<td align="center">📐</td>
-<td>
+ Molecular Space             Token Space
 
-**[Modelitx](https://github.com/nickmaia/Modelitx)** — transforma dados reais em funções matemáticas para ensinar Cálculo do jeito que ele deveria ser ensinado: com exemplos que existem de verdade. Bolsa FAPEMIG · [ver demo →](https://modelitx.vercel.app/)
+      │                           │
 
-</td>
-</tr>
-<tr>
-<td align="center">🧠</td>
-<td>
+      └─────────────┬─────────────┘
 
-**[conditional-molecular-design-ssvae](https://github.com/nickmaia/conditional-molecular-design-ssvae)** — um Variational Autoencoder semi-supervisionado que não só prevê propriedades moleculares, mas aprende a *desenhar* moléculas novas com elas.
+                    ▼
 
-</td>
-</tr>
-<tr>
-<td align="center">🔁</td>
-<td>
+        Representation Learning
 
-**[raven](https://github.com/nickmaia/raven)** — experimentos de pesquisa reproduzidos em escala reduzida, pra entender de dentro pra fora antes de confiar de fora pra dentro.
+                    ▼
 
-</td>
-</tr>
-</table>
+          Deep Neural Networks
 
-<br>
+                    ▼
 
-## ⇁ Stack
+        Attention Mechanisms
+
+                    ▼
+
+      Large Language Models
+
+                    ▼
+
+      Scientific Discovery
+```
+
+---
+
+# Neural Architecture
+
+```
+                         ┌───────────────┐
+                         │   Knowledge   │
+                         └───────┬───────┘
+                                 │
+               ┌─────────────────┼─────────────────┐
+               │                 │                 │
+
+          Chemistry         Mathematics      AI Research
+
+               │                 │                 │
+
+               └────────────┬────┴────────────┐
+
+                            ▼
+
+                Representation Learning
+
+                            ▼
+
+                  Deep Learning Systems
+
+                            ▼
+
+                     Large Language Models
+```
+
+---
+
+# Active Experiments
+
+| ID | Experiment | Status |
+|----|-----------|--------|
+| 001 | 🧬 MACES | COMPLETE |
+| 002 | 📐 Modelitx | ACTIVE |
+| 003 | 🧠 Raven | TRAINING |
+| 004 | ⚛ Molecular Generation | ACTIVE |
+| 005 | 🤖 LLM Research | RUNNING |
+
+---
+
+# Knowledge Graph
+
+```
+                         Artificial Intelligence
+
+              ╱──────────────┼──────────────╲
+
+      Deep Learning      NLP        Computer Vision
+
+             │
+
+      Representation Learning
+
+             │
+
+      Mathematical Modeling
+
+             │
+
+      Molecular Engineering
+
+             │
+
+      Chemistry
+```
+
+---
+
+# Current Focus
+
+```
+Representation Learning
+
+├── Transformers
+
+├── Attention Mechanisms
+
+├── Retrieval Augmented Generation
+
+├── LLM Architectures
+
+├── Efficient Training
+
+├── Scientific AI
+
+└── Neural Memory
+```
+
+---
+
+# Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Transformers-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=00FF9C"/>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=00FF9C"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,javascript,typescript,react,nodejs,django,fastapi,docker,git,linux,vscode&perline=8"/>
 
 </div>
 
-<br>
+---
 
-## ⇁ Contributions
+# Neural Activity
+
+```text
+Epoch 0001
+Loss ████████████████████████
+
+Epoch 0100
+Loss ███████████████
+
+Epoch 0500
+Loss ████████
+
+Epoch 1000
+Loss ███
+
+Model converged.
+```
+
+---
+
+# Philosophy
+
+> Every intelligent system starts with noise.
+>
+> Some systems discover patterns.
+>
+> Some discover meaning.
+>
+> I like building the ones that do both.
+
+---
+
+# Current Research
+
+```
+Chemistry
+
+↓
+
+Mathematics
+
+↓
+
+Machine Learning
+
+↓
+
+Representation Learning
+
+↓
+
+Attention
+
+↓
+
+Transformers
+
+↓
+
+Large Language Models
+
+↓
+
+Artificial Intelligence
+```
+
+---
+
+# Terminal
+
+```bash
+visitor@github:~$ whoami
+
+Nicole Maia Argondizzi
+
+visitor@github:~$ current_focus
+
+> Large Language Models
+> Attention Mechanisms
+> Scientific AI
+> Representation Learning
+
+visitor@github:~$ objective
+
+Build intelligent systems capable of
+extracting structure from noisy information.
+
+visitor@github:~$ status
+
+Researching...
+```
+
+---
 
 <div align="center">
 
-<!-- Suba o arquivo neural_network.svg para uma pasta (ex: assets/) no seu repositório
-     nickmaia/nickmaia e troque o link abaixo pelo raw.githubusercontent.com correspondente -->
-<img src="https://raw.githubusercontent.com/nickmaia/nickmaia/main/neural_network.svg" width="100%" alt="rede neural animada"/>
+### Connect
+
+<a href="https://www.linkedin.com/in/nicole-maia-argondizzi/">
+<img src="https://img.shields.io/badge/LinkedIn-00FFD0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="http://lattes.cnpq.br/1135239230343713">
+<img src="https://img.shields.io/badge/Lattes-00FFD0?style=for-the-badge&logo=googlescholar&logoColor=black"/>
+</a>
+
+<a href="https://sitesnicky.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00FFD0?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="mailto:nicolemaiaargondizzi02@gmail.com">
+<img src="https://img.shields.io/badge/Email-00FFD0?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+---
+
+```
+Artificial Intelligence is not about replacing intelligence.
+
+It's about understanding how intelligence emerges.
+
+— Nicole Maia
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,50:00B894,100:000000"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<details>
-<summary><b>⇁ uma curiosidade</b></summary>
-<br>
-<sub>Espectrometria de massas e Transformers têm mais em comum do que parece: as duas técnicas tentam reconstruir a "identidade" de algo (uma molécula, uma palavra) a partir de fragmentos e do contexto ao redor deles. Foi essa semelhança que me trouxe da bancada de química pro teclado.</sub>
-
-</details>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nicole-maia-argondizzi/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/></a>
-<a href="http://lattes.cnpq.br/1135239230343713"><img src="https://img.shields.io/badge/Lattes-0d0d0d?style=for-the-badge&logo=googlescholar&logoColor=00FF9C"/></a>
-<a href="https://sitesnicky.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00FF9C"/></a>
-<a href="mailto:nicolemaiaargondizzi02@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF9C"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:134e4a,100:0d0d0d&height=100&section=footer" width="100%"/>
