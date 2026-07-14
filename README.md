@@ -11,67 +11,89 @@
 ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://raw.githubusercontent.com/nickmaia/Nickmaia/main/loading.svg" width="100%" alt="Initializing Research Environment"/>
+<img src="https://raw.githubusercontent.com/nickmaia/nickmaia/main/loading.svg" width="100%" alt="Initializing Research Environment"/>
 
 </div>
 
----
+<br>
 
-## Sobre mim
+<div align="center">
 
-```python
-class NicoleMaia:
+Mestranda em **Ciência da Computação** · linha Ciência de Dados · **UFU** · bolsista **CAPES**
+Pesquiso **LLMs**, **Transformers**, **RAG** e **mecanismos de atenção** aplicados a dados científicos
+Engenheira Química pela **UFTM** — automação · modelagem molecular · desenvolvimento web
 
-    formacao = [
-        "M.Sc. Ciência da Computação — UFU (em andamento)",
-        "Engenharia Química — UFTM"
-    ]
+</div>
 
-    pesquisa = [
-        "Large Language Models",
-        "Transformers",
-        "Attention Mechanisms",
-        "Retrieval-Augmented Generation"
-    ]
+<br>
 
-    bolsa = "CAPES"
+## 💜 Projetos
 
-    foco = "IA generativa aplicada a dados científicos"
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧬 MACES
 
-## Projetos
+Análise estrutural de moléculas via espectrometria de massas, combinando **MLP** e **algoritmo genético**. TCC de Engenharia Química.
 
-| ID | Projeto | Domínio | Status |
-|----|---------|---------|--------|
-| 001 | 🧬 [MACES](https://github.com/nickmaia/MACES) | espectrometria de massas · MLP + algoritmo genético | `COMPLETE` |
-| 002 | 📐 [Modelitx](https://github.com/nickmaia/Modelitx) · [demo](https://modelitx.vercel.app/) | funções a partir de dados reais p/ ensino de Cálculo · FAPEMIG | `DEPLOYED` |
-| 003 | 🧠 [conditional-molecular-design-ssvae](https://github.com/nickmaia/conditional-molecular-design-ssvae) | SSVAE p/ predição e geração de moléculas | `COMPLETE` |
-| 004 | 🔁 [raven](https://github.com/nickmaia/raven) | reprodução de experimentos de pesquisa | `TRAINING` |
+[repositório →](https://github.com/nickmaia/MACES)
 
----
+</td>
+<td width="50%" valign="top">
 
-## Tecnologias
+### 📐 Modelitx
 
-```
-research/
-├── python/
-│   ├── pytorch
-│   ├── tensorflow
-│   ├── transformers (hugging face)
-│   └── pandas
-├── backend/
-│   ├── fastapi
-│   └── django
-└── frontend/
-    ├── javascript
-    └── react
-```
+Gera funções matemáticas a partir de **dados reais** para o ensino de Cálculo. Desenvolvido com bolsa **FAPEMIG**.
 
----
+[repositório →](https://github.com/nickmaia/Modelitx) · [demo →](https://modelitx.vercel.app/)
 
-## Contribuições
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Molecular Design SSVAE
+
+**Variational Autoencoder semi-supervisionado** que prevê propriedades moleculares e gera moléculas novas.
+
+[repositório →](https://github.com/nickmaia/conditional-molecular-design-ssvae)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔁 raven
+
+Experimentos de pesquisa reproduzidos em **escala reduzida** — entender por dentro antes de confiar.
+
+[repositório →](https://github.com/nickmaia/raven)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💜 Tecnologias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-2e1065?style=for-the-badge&logo=python&logoColor=B983FF"/>
+<img src="https://img.shields.io/badge/PyTorch-2e1065?style=for-the-badge&logo=pytorch&logoColor=B983FF"/>
+<img src="https://img.shields.io/badge/TensorFlow-2e1065?style=for-the-badge&logo=tensorflow&logoColor=B983FF"/>
+<img src="https://img.shields.io/badge/Transformers-2e1065?style=for-the-badge&logo=huggingface&logoColor=B983FF"/>
+<img src="https://img.shields.io/badge/Pandas-2e1065?style=for-the-badge&logo=pandas&logoColor=B983FF"/>
+<br>
+<img src="https://img.shields.io/badge/FastAPI-2e1065?style=for-the-badge&logo=fastapi&logoColor=B983FF"/>
+<img src="https://img.shields.io/badge/Django-2e1065?style=for-the-badge&logo=django&logoColor=B983FF"/>
+<img src="https://img.shields.io/badge/JavaScript-2e1065?style=for-the-badge&logo=javascript&logoColor=B983FF"/>
+<img src="https://img.shields.io/badge/React-2e1065?style=for-the-badge&logo=react&logoColor=B983FF"/>
+
+</div>
+
+<br>
+
+## 💜 Contribuições
 
 <div align="center">
 
@@ -79,9 +101,9 @@ research/
 
 </div>
 
----
+<br>
 
-## Contato
+## 💜 Contato
 
 <div align="center">
 
