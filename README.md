@@ -108,6 +108,18 @@ Comecei desmontando moléculas em espectros de massa. Hoje desmonto texto em vet
 
 <br>
 
+## ⇁ Contributions
+
+<div align="center">
+
+<!-- Suba o arquivo neural_network.svg para uma pasta (ex: assets/) no seu repositório
+     nickmaia/nickmaia e troque o link abaixo pelo raw.githubusercontent.com correspondente -->
+<img src="https://raw.githubusercontent.com/nickmaia/nickmaia/main/assets/neural_network.svg" width="100%" alt="rede neural animada"/>
+
+</div>
+
+<br>
+
 <div align="center">
 
 <details>
