@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:134e4a,100:0d0d0d&height=190&section=header&text=Nicole%20Maia&fontSize=44&fontColor=00FF9C&fontAlignY=38&desc=Data%20Science%20%C3%97%20Chemical%20Engineering&descAlignY=58&descSize=15&descColor=7CF9CF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2e1065,100:0d0d0d&height=190&section=header&text=Nicole%20Maia&fontSize=44&fontColor=C4B5FD&fontAlignY=38&desc=Data%20Science%20%C3%97%20Chemical%20Engineering&descAlignY=58&descSize=15&descColor=67E8F9&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -125,11 +125,11 @@ pesquisando...
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nicole-maia-argondizzi/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/></a>
-<a href="http://lattes.cnpq.br/1135239230343713"><img src="https://img.shields.io/badge/Lattes-0d0d0d?style=for-the-badge&logo=googlescholar&logoColor=00FF9C"/></a>
-<a href="https://sitesnicky.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00FF9C"/></a>
-<a href="mailto:nicolemaiaargondizzi02@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF9C"/></a>
+<a href="https://www.linkedin.com/in/nicole-maia-argondizzi/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/></a>
+<a href="http://lattes.cnpq.br/1135239230343713"><img src="https://img.shields.io/badge/Lattes-0d0d0d?style=for-the-badge&logo=googlescholar&logoColor=C4B5FD"/></a>
+<a href="https://sitesnicky.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=C4B5FD"/></a>
+<a href="mailto:nicolemaiaargondizzi02@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:134e4a,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2e1065,100:0d0d0d&height=100&section=footer" width="100%"/>
