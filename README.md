@@ -1,10 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2e1065,100:0d0d0d&height=190&section=header&text=Nicole%20Maia&fontSize=44&fontColor=C4B5FD&fontAlignY=38&desc=Data%20Science%20%C3%97%20Chemical%20Engineering&descAlignY=58&descSize=15&descColor=67E8F9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,35:2e1065,70:7c3aed,100:0d0d0d&height=230&section=header&text=NeuralOS&fontSize=54&fontColor=B983FF&fontAlignY=36&desc=Nicole%20Maia%20%7C%20Data%20Science%20Research%20Lab&descAlignY=56&descSize=16&descColor=D9C6FF&animation=fadeIn" width="100%"/>
+
+```
+███╗   ██╗██╗ ██████╗ ██████╗ ██╗     ███████╗
+████╗  ██║██║██╔════╝██╔═══██╗██║     ██╔════╝
+██╔██╗ ██║██║██║     ██║   ██║██║     █████╗
+██║╚██╗██║██║██║     ██║   ██║██║     ██╔══╝
+██║ ╚████║██║╚██████╗╚██████╔╝███████╗███████╗
+╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
+```
+
+### Initializing Research Environment...
+
+```
+Loading Transformers................... ████████████████ 100%
+Loading Attention Mechanisms........... ████████████████ 100%
+Loading RAG Pipeline................... ████████████████ 100%
+Loading Generative AI.................. ████████████████ 100%
+
+STATUS: ONLINE
+```
 
 </div>
 
-<br>
+---
 
 ## > whoami
 
@@ -12,92 +32,55 @@
 class NicoleMaia:
 
     formacao = [
-        "Engenharia Química — UFTM",
-        "M.Sc. Ciência da Computação — UFU (em andamento)"
+        "M.Sc. Ciência da Computação — UFU (em andamento)",
+        "Engenharia Química — UFTM"
     ]
 
     pesquisa = [
-        "LLMs",
+        "Large Language Models",
         "Transformers",
-        "RAG",
-        "Mecanismos de Atenção"
+        "Attention Mechanisms",
+        "Retrieval-Augmented Generation"
     ]
 
     bolsa = "CAPES"
 
-    foco_atual = "IA generativa aplicada a dados científicos"
+    foco = "IA generativa aplicada a dados científicos"
 ```
 
-<br>
+---
 
-## ⇁ Timeline
+## > active_experiments
 
-```
-●── Engenharia Química — UFTM
-│    automação · modelagem molecular
-│
-●── Mestrado em Ciência da Computação — UFU · bolsista CAPES
-     linha Ciência de Dados · LLMs · Transformers · RAG
-```
+| ID | Experimento | Domínio | Status |
+|----|------------|---------|--------|
+| 001 | 🧬 [MACES](https://github.com/nickmaia/MACES) | espectrometria de massas · MLP + algoritmo genético | `COMPLETE` |
+| 002 | 📐 [Modelitx](https://github.com/nickmaia/Modelitx) · [demo](https://modelitx.vercel.app/) | funções a partir de dados reais p/ ensino de Cálculo · FAPEMIG | `DEPLOYED` |
+| 003 | 🧠 [conditional-molecular-design-ssvae](https://github.com/nickmaia/conditional-molecular-design-ssvae) | SSVAE p/ predição e geração de moléculas | `COMPLETE` |
+| 004 | 🔁 [raven](https://github.com/nickmaia/raven) | reprodução de experimentos de pesquisa | `TRAINING` |
 
-<br>
+---
 
-## ⇁ Projetos
-
-<table>
-<tr>
-<td width="8%" align="center">🧬</td>
-<td>
-
-**[MACES](https://github.com/nickmaia/MACES)** — rede neural (MLP) + algoritmo genético lendo a estrutura de uma molécula a partir do seu espectro de massas. TCC de Engenharia Química.
-
-</td>
-</tr>
-<tr>
-<td align="center">📐</td>
-<td>
-
-**[Modelitx](https://github.com/nickmaia/Modelitx)** — transforma dados reais em funções matemáticas para ensinar Cálculo do jeito que ele deveria ser ensinado: com exemplos que existem de verdade. Bolsa FAPEMIG · [ver demo →](https://modelitx.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td align="center">🧠</td>
-<td>
-
-**[conditional-molecular-design-ssvae](https://github.com/nickmaia/conditional-molecular-design-ssvae)** — um Variational Autoencoder semi-supervisionado que não só prevê propriedades moleculares, mas aprende a *desenhar* moléculas novas com elas.
-
-</td>
-</tr>
-<tr>
-<td align="center">🔁</td>
-<td>
-
-**[raven](https://github.com/nickmaia/raven)** — experimentos de pesquisa reproduzidos em escala reduzida, pra entender de dentro pra fora antes de confiar de fora pra dentro.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## ⇁ Stack
+## > stack --tree
 
 ```
-Python
-  │
-PyTorch · TensorFlow
-  │
-Transformers (Hugging Face)
-  │
-FastAPI · Django
-  │
-JavaScript · React
+research/
+├── python/
+│   ├── pytorch
+│   ├── tensorflow
+│   ├── transformers (hugging face)
+│   └── pandas
+├── backend/
+│   ├── fastapi
+│   └── django
+└── frontend/
+    ├── javascript
+    └── react
 ```
 
-<br>
+---
 
-## ⇁ Contributions
+## > neural_activity
 
 <div align="center">
 
@@ -105,31 +88,24 @@ JavaScript · React
 
 </div>
 
-<br>
+---
 
-## > terminal
-
-```bash
-visitor@github:~$ current_focus
-
-> Large Language Models
-> Attention Mechanisms
-> Retrieval-Augmented Generation
-
-visitor@github:~$ status
-
-pesquisando...
-```
-
-<br>
+## > connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nicole-maia-argondizzi/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/></a>
-<a href="http://lattes.cnpq.br/1135239230343713"><img src="https://img.shields.io/badge/Lattes-0d0d0d?style=for-the-badge&logo=googlescholar&logoColor=C4B5FD"/></a>
-<a href="https://sitesnicky.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=C4B5FD"/></a>
-<a href="mailto:nicolemaiaargondizzi02@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/></a>
+<a href="https://www.linkedin.com/in/nicole-maia-argondizzi/"><img src="https://img.shields.io/badge/LinkedIn-2e1065?style=for-the-badge&logo=linkedin&logoColor=B983FF"/></a>
+<a href="http://lattes.cnpq.br/1135239230343713"><img src="https://img.shields.io/badge/Lattes-2e1065?style=for-the-badge&logo=googlescholar&logoColor=B983FF"/></a>
+<a href="https://sitesnicky.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2e1065?style=for-the-badge&logo=vercel&logoColor=B983FF"/></a>
+<a href="mailto:nicolemaiaargondizzi02@gmail.com"><img src="https://img.shields.io/badge/Email-2e1065?style=for-the-badge&logo=gmail&logoColor=B983FF"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2e1065,100:0d0d0d&height=100&section=footer" width="100%"/>
+```bash
+visitor@github:~$ status
+pesquisando...
+
+visitor@github:~$ _
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,35:7c3aed,70:2e1065,100:0d0d0d&height=120&section=footer" width="100%"/>
